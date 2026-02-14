@@ -1,0 +1,1 @@
+print("Hello")  # Comment after code
