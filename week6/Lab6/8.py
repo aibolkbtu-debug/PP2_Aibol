@@ -1,0 +1,5 @@
+n=int(input())
+m=map(int, input().split())
+s=set(m)
+p=sorted(s)
+print(*p)
